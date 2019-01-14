@@ -1,6 +1,5 @@
-insert into compras (valor, data, observacao, recebido) values (200, '2008-02-19', 'MATERIAL ESCOLAR', 1);
-insert into compras (valor, data, observacao, recebido) values (3500, '2008-05-21', 'TELEVISAO', 0);
-insert into compras (valor, data, observacao, recebido) values (1576.40, '2008-04-30', 'MATERIAL DE CONSTRUCAO', 1);
+insert into compras (valor, data, observacao, recebida) values (200, '2008-02-19', 'MATERIAL ESCOLAR', 2);
+insert into compras (valor, data, observacao, recebido) values (3500,'RADIO', 0);
 insert into compras (valor, data, observacao, recebido) values (163.45, '2008-12-15', 'PIZZA PRA FAMILIA', 1);
 insert into compras (valor, data, observacao, recebido) values (4780.0, '2009-01-23', 'SALA DE ESTAR', 1);
 insert into compras (valor, data, observacao, recebido) values (392.15, '2009-03-03', 'QUARTOS', 1);
@@ -40,3 +39,4 @@ insert into compras (valor, data, observacao, recebido) values (576.12, '2011-09
 insert into compras (valor, data, observacao, recebido) values (12.34, '2011-07-19', 'CANETAS', 0);
 insert into compras (valor, data, observacao, recebido) values (87.43, '2011-05-10', 'GRAVATA', 0);
 insert into compras (valor, data, observacao, recebido) values (887.66, '2011-02-02', 'PRESENTE PARA O FILHAO', 1);
+insert into compras (valor, data, observacao, recebido) values (888.65, '2011-02-02', 'PRESENTE PARA O FILHAO', 1);
