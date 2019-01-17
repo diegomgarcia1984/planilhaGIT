@@ -1,4 +1,3 @@
-insert into compras (valor, data, observacao, recebida) values (200, '2008-02-19', 'MATERIAL ESCOLAR', 2);
 insert into compras (valor, data, observacao, recebido) values (3500,'RADIO', 0);
 insert into compras (valor, data, observacao, recebido) values (163.45, '2008-12-15', 'PIZZA PRA FAMILIA', 1);
 insert into compras (valor, data, observacao, recebido) values (4780.0, '2009-01-23', 'SALA DE ESTAR', 1);
@@ -10,8 +9,7 @@ insert into compras (valor, data, observacao, recebido) values (12.34, '2009-05-
 insert into compras (valor, data, observacao, recebido) values (78.65, '2009-12-04', 'LANCHONETE', 0);
 insert into compras (valor, data, observacao, recebido) values (12.39, '2009-01-06', 'SORVETE NO PARQUE', 0);
 insert into compras (valor, data, observacao, recebido) values (98.12, '2009-07-09', 'HOPI HARI', 1);
-insert into compras (valor, data, observacao, recebido) values (2498.0, '2009-01-12', 'compras DE JANEIRO', 1);
-insert into compras (valor, data, observacao, recebido) values (3212.4, '2009-11-13', 'compras DO MES', 1);
+insert into compras (valor, data, observacao, recebido) values abc (3212.4, '2009-11-13', 'compras DO MES', 1);
 insert into compras (valor, data, observacao, recebido) values (223.09, '2009-12-17', 'compras DE NATAL', 1);
 insert into compras (valor, data, observacao, recebido) values (768.90, '2009-01-16', 'FESTA', 1);
 insert into compras (valor, data, observacao, recebido) values (115.90, '2010-06-12', 'DIA DOS NAMORADOS', 0);
